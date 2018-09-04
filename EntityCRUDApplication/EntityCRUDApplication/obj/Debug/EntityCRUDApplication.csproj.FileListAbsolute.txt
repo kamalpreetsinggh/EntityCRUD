@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\EntityCRUDApplication\EntityCRUDApplication\bin\Debug\EntityCRUDApplication.exe.config
+C:\Users\admin\Desktop\EntityCRUDApplication\EntityCRUDApplication\bin\Debug\EntityCRUDApplication.exe
+C:\Users\admin\Desktop\EntityCRUDApplication\EntityCRUDApplication\bin\Debug\EntityCRUDApplication.pdb
+C:\Users\admin\Desktop\EntityCRUDApplication\EntityCRUDApplication\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\EntityCRUDApplication\EntityCRUDApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\EntityCRUDApplication\EntityCRUDApplication\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\EntityCRUDApplication\EntityCRUDApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\EntityCRUDApplication\EntityCRUDApplication\obj\Debug\EntityCRUDApplication.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\EntityCRUDApplication\EntityCRUDApplication\obj\Debug\EntityCRUDApplication.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\EntityCRUDApplication\EntityCRUDApplication\obj\Debug\EntityCRUDApplication.csproj.CopyComplete
+C:\Users\admin\Desktop\EntityCRUDApplication\EntityCRUDApplication\obj\Debug\EntityCRUDApplication.exe
+C:\Users\admin\Desktop\EntityCRUDApplication\EntityCRUDApplication\obj\Debug\EntityCRUDApplication.pdb
