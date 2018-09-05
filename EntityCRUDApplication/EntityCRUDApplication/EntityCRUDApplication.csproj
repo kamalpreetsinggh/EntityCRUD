@@ -52,6 +52,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Migrations\201809041141148_InitialCreate.cs" />
+    <Compile Include="Migrations\201809041141148_InitialCreate.Designer.cs">
+      <DependentUpon>201809041141148_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201809050617554_Kamapreet.cs" />
+    <Compile Include="Migrations\201809050617554_Kamapreet.Designer.cs">
+      <DependentUpon>201809050617554_Kamapreet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Course.cs" />
     <Compile Include="Models\Student.cs" />
     <Compile Include="Program.cs" />
@@ -61,6 +70,14 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201809041141148_InitialCreate.resx">
+      <DependentUpon>201809041141148_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201809050617554_Kamapreet.resx">
+      <DependentUpon>201809050617554_Kamapreet.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
