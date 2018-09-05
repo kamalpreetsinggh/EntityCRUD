@@ -1,0 +1,12 @@
+D:\DotNet\StudentCRUDApplication\StudentCRUDApplication\bin\Debug\StudentCRUDApplication.exe.config
+D:\DotNet\StudentCRUDApplication\StudentCRUDApplication\bin\Debug\StudentCRUDApplication.exe
+D:\DotNet\StudentCRUDApplication\StudentCRUDApplication\bin\Debug\StudentCRUDApplication.pdb
+D:\DotNet\StudentCRUDApplication\StudentCRUDApplication\bin\Debug\EntityFramework.dll
+D:\DotNet\StudentCRUDApplication\StudentCRUDApplication\bin\Debug\EntityFramework.SqlServer.dll
+D:\DotNet\StudentCRUDApplication\StudentCRUDApplication\bin\Debug\EntityFramework.xml
+D:\DotNet\StudentCRUDApplication\StudentCRUDApplication\bin\Debug\EntityFramework.SqlServer.xml
+D:\DotNet\StudentCRUDApplication\StudentCRUDApplication\obj\Debug\StudentCRUDApplication.csprojAssemblyReference.cache
+D:\DotNet\StudentCRUDApplication\StudentCRUDApplication\obj\Debug\StudentCRUDApplication.csproj.CoreCompileInputs.cache
+D:\DotNet\StudentCRUDApplication\StudentCRUDApplication\obj\Debug\StudentCRUDApplication.csproj.CopyComplete
+D:\DotNet\StudentCRUDApplication\StudentCRUDApplication\obj\Debug\StudentCRUDApplication.exe
+D:\DotNet\StudentCRUDApplication\StudentCRUDApplication\obj\Debug\StudentCRUDApplication.pdb
